@@ -5,4 +5,4 @@ https://www.kaggle.com/learn/overview
 
 1-Intro to Machine Learning 
 
-  -FirstMachineLearningModel.py
+  -FirstMachineLearningModel.py {run with melb_data.csv}
