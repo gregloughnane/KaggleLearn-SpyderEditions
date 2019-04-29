@@ -2,9 +2,15 @@
 """
 Created on Fri Apr 26 12:02:05 2019
 
+Make sure that these libraries are in your Anaconda Virtual Environment
+- pandas
+- sklearn
+
+and...
+
 Make sure that the melb_data.csv in in your working directory in Spyder
 
-@author: Greg
+@author: Greg Loughnane
 """
 
 
