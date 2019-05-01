@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May  1 10:22:46 2019
+Created on Wed May  1 10:22:46 2019(Python 3.6)
 
 Make sure that these libraries are in your Anaconda Virtual Environment
-- pandas
-- matplotlib
-- seaborn
+- pandas        (I ran with 0.24.2)
+- matplotlib	(I ran with 3.0.3)
+- seaborn		(I ran with 0.9.0)
 
 and...
 
