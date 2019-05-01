@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr 29 15:39:29 2019
+Created on Mon Apr 29 15:39:29 2019 (Python 3.6)
 
 You don't need any libraries or anything to run this in Spyder.
 Just download Anaconda, install spyder, and click "Run file (F5)"
