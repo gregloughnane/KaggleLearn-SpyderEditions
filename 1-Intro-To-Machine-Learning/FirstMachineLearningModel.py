@@ -8,7 +8,7 @@ Make sure that these libraries are in your Anaconda Virtual Environment
 
 and...
 
-Make sure that the melb_data.csv in in your working directory in Spyder
+Make sure that the melb_data.csv is in your working directory in Spyder
 
 @author: Greg Loughnane
 """
