@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 30 10:27:16 2019
+Created on Tue Apr 30 10:27:16 2019 (Python 3.6)
 
 Download these libraries your Anaconda Virtual Environment through the GUI
-- math
-- numpy
-- tensorflow
+- math       (No worries, it's already in Python 3.6)
+- numpy      (1.16.2)
+- tensorflow (1.13.1)
 
 @author: Greg
 """
