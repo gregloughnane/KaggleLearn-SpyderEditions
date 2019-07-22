@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 26 12:02:05 2019 (Python 3.6)
+Python 3.6
 
 Make sure that these libraries are in your Anaconda Virtual Environment
 - pandas        (I ran with 0.24.2)
