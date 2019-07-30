@@ -6,7 +6,7 @@ Make sure that these libraries are in your Anaconda Virtual Environment
 - pandas        (I ran with 0.24.2)
 
 Make sure that the following data sets are in your working directory in Spyder
-- winemag-data-130k-v2.csv
+- winemag-data-130k-v2.csv (download from https://www.kaggle.com/zynicide/wine-reviews)
 - gaming.csv
 - movies.csv
 - meets.csv
